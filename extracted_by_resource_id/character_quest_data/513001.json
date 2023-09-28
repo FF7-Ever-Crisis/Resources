@@ -1,0 +1,114 @@
+{
+    "_name": "dat_dungeon_qu513_001",
+    "controller": {
+        "_path": -4023071124638705962
+    },
+    "animationBodySize": 0,
+    "uniqueActionDataNames": [],
+    "commonActionData": {
+        "_path": -5740983788821227363
+    },
+    "uniquePoseDataNames": [],
+    "poseDataNames": [],
+    "idleRandomActionData": [],
+    "chocoboFarmIdleRandomActionIds": [],
+    "chocoboFarmSpecialRandomActionData": [],
+    "characterFeatures": [
+        1
+    ],
+    "agentTypeName": "Human",
+    "areaMaskNames": [
+        "Walkable",
+        "Jump"
+    ],
+    "turnCurve20": {
+        "m_Curve": [
+            {
+                "time": 0.0,
+                "value": 0.0,
+                "inSlope": 4.115963935852051,
+                "outSlope": 4.115963935852051,
+                "weightedMode": 0,
+                "inWeight": 0.0,
+                "outWeight": 0.048058100044727325
+            },
+            {
+                "time": 0.3787287771701813,
+                "value": 0.9935239553451538,
+                "inSlope": 0.11616142094135284,
+                "outSlope": 0.11616142094135284,
+                "weightedMode": 0,
+                "inWeight": 0.3333333432674408,
+                "outWeight": 0.1342538446187973
+            },
+            {
+                "time": 0.5999999642372131,
+                "value": 1.0,
+                "inSlope": 0.0,
+                "outSlope": 0.0,
+                "weightedMode": 0,
+                "inWeight": 0.0,
+                "outWeight": 0.0
+            }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+    },
+    "turnCurve90": {
+        "m_Curve": [
+            {
+                "time": 0.0,
+                "value": 0.0,
+                "inSlope": 1.9236648082733154,
+                "outSlope": 1.9236648082733154,
+                "weightedMode": 0,
+                "inWeight": 0.0,
+                "outWeight": 0.03340927138924599
+            },
+            {
+                "time": 0.6159521341323853,
+                "value": 0.9965382218360901,
+                "inSlope": 0.0,
+                "outSlope": 0.0,
+                "weightedMode": 0,
+                "inWeight": 0.0,
+                "outWeight": 0.0
+            }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+    },
+    "turnCurve180": {
+        "m_Curve": [
+            {
+                "time": 0.0,
+                "value": 0.0,
+                "inSlope": 1.9872294664382935,
+                "outSlope": 1.9872294664382935,
+                "weightedMode": 0,
+                "inWeight": 0.0,
+                "outWeight": 0.037965077906847
+            },
+            {
+                "time": 1.0019994974136353,
+                "value": 0.9965382218360901,
+                "inSlope": 0.0,
+                "outSlope": 0.0,
+                "weightedMode": 0,
+                "inWeight": 0.0,
+                "outWeight": 0.0
+            }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+    },
+    "voiceId": "qu513",
+    "useHorizontalFloorTransformName": "",
+    "useOverrideIKSolverLookAtBodyWeight": 0,
+    "overrideIKSolverLookAtBodyWeight": -0.0,
+    "useOverrideIKSolverLookAtClampWeightHead": 0,
+    "overrideIKSolverLookAtClampWeightHead": 0.0
+}
