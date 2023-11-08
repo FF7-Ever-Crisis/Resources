@@ -1,19 +1,51 @@
 {
-    "_name": "dat_dungeon_qu542_001",
+    "_name": "dat_dungeon_qu020_001",
     "controller": {
-        "_path": -1298599294044355190
+        "_path": 7187620881730668879
     },
-    "animationBodySize": 6,
+    "animationBodySize": 0,
     "uniqueActionDataNames": [
-        "dat_asset_action_dungeon_qu542_001_01",
-        "dat_asset_action_dungeon_qu542_adjust_walk_01"
+        "dat_asset_action_dungeon_qu020_auto_idle_01",
+        "dat_asset_action_dungeon_qu020_auto_idle_02",
+        "dat_asset_action_dungeon_qu020_auto_idle_03",
+        "dat_asset_action_dungeon_qu020_chocobofarm_expedition_01",
+        "dat_asset_action_dungeon_qu020_chocobofarm_expedition_02",
+        "dat_asset_action_dungeon_qu020_chocobofarm_expedition_03"
     ],
-    "commonActionData": null,
+    "commonActionData": {
+        "_path": -5740983788821227363
+    },
     "uniquePoseDataNames": [],
     "poseDataNames": [],
-    "idleRandomActionData": [],
+    "idleRandomActionData": [
+        {
+            "actionId": "auto_idle_01",
+            "duration": 0.10000000149011612
+        },
+        {
+            "actionId": "auto_idle_02",
+            "duration": 0.10000000149011612
+        },
+        {
+            "actionId": "auto_idle_03",
+            "duration": 0.10000000149011612
+        }
+    ],
     "chocoboFarmIdleRandomActionIds": [],
-    "chocoboFarmSpecialRandomActionData": [],
+    "chocoboFarmSpecialRandomActionData": [
+        {
+            "actionId": "chocobofarm_expedition_01",
+            "duration": 1.0
+        },
+        {
+            "actionId": "chocobofarm_expedition_02",
+            "duration": 1.0
+        },
+        {
+            "actionId": "chocobofarm_expedition_03",
+            "duration": 1.0
+        }
+    ],
     "characterFeatures": [
         1
     ],
@@ -106,7 +138,7 @@
         "m_PostInfinity": 2,
         "m_RotationOrder": 4
     },
-    "voiceId": "qu542",
+    "voiceId": "qu020",
     "useHorizontalFloorTransformName": "",
     "useOverrideIKSolverLookAtBodyWeight": 0,
     "overrideIKSolverLookAtBodyWeight": -0.0,
