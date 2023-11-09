@@ -6,6 +6,7 @@
     "animationBodySize": 6,
     "uniqueActionDataNames": [
         "dat_asset_action_dungeon_qu542_001_01",
+        "dat_asset_action_dungeon_qu542_002_01",
         "dat_asset_action_dungeon_qu542_adjust_walk_01"
     ],
     "commonActionData": null,
