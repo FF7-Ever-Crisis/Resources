@@ -1,6 +1,3 @@
 .DS_Store
 extracted_by_name/
-extracted_by_resource_id/accessory_model_data/
-extracted_by_resource_id/weapon_extra_model_data/
-extracted_by_resource_id/dungeon_map_content/
-extracted_by_resource_id/weapon_extra_model_data/
+extracted_data/
